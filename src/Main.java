@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         // Задача 1: Накопление 2 459 000 рублей
         System.out.println("Задача 1:");
+
         int targetAmount = 2_459_000;
         int savings = 0;
         int monthlyDeposit = 15_000;
